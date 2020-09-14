@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-trace/#history
 
+### [1.0.1](https://www.github.com/googleapis/python-trace/compare/v1.0.0...v1.0.1) (2020-09-14)
+
+
+### Documentation
+
+* state >=3.6 requirement in README ([#42](https://www.github.com/googleapis/python-trace/issues/42)) ([c162047](https://www.github.com/googleapis/python-trace/commit/c162047a779478a43561a7e1f1b8687dda5ecc89))
+
 ## [1.0.0](https://www.github.com/googleapis/python-trace/compare/v0.24.0...v1.0.0) (2020-09-14)
 
 
